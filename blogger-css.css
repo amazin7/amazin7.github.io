@@ -1,13 +1,5 @@
 <@charset "UTF-8";>
 /*  全体の設定  */
-body{
-font-family: 'Noto Sans Japanese', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
-   background-color:#fff;
-   margin:0;
-   font-size:16px;
-   color:#3F3F3F;
-   line-height:1.6em;
-}
 img, video, object {
    max-width:100%;
    height:auto;
